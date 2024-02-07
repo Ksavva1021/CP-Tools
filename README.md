@@ -1,4 +1,4 @@
-# CP_Tools Repository
+# CP - Tools Repository
 
 This repository contains a collection of tools and utilities for the Higgs tau-tau CP Analysis.
 
